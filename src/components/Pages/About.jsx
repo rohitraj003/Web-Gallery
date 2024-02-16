@@ -2,7 +2,6 @@ import React from 'react';
 import './About.css'; 
 import bgimg from './images/bg.jpg';
 
-
 const About = () => {
   return (
     <div className="landing-page">
@@ -13,9 +12,10 @@ const About = () => {
           className="img-fluid"
         />
         <div className="overlay">
-          <h1>Welcome !!</h1>
-          <p>Image Gallery web-app <br />
-             to view your image</p>
+          <h1 className="welcome-heading">Welcome to our Image Gallery!</h1>
+          <p className="welcome-text">
+            Explore the beauty captured through pixels. Our web app is your gateway to a visual journey where each image tells a unique story. 
+          </p>
         </div>
       </div>
     </div>
