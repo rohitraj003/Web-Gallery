@@ -1,0 +1,48 @@
+.landing-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.cover-image {
+    position: absolute;
+    width: 100%;
+    height: 150%;
+  }
+  
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff; 
+    text-align: center;
+  }
+  
+.overlay h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+    color: black;
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+.overlay p {
+    font-size: 2rem;
+    color: rgb(51, 13, 178);
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
