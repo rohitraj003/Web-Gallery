@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Image-Gallery
+Our web app is your gateway to a visual journey where each image tells a unique story.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- See your images in different view such as
+- Carousel view
+- Scroll view
+- Collage view
+
+
+
+## Tech Stack
+
+- Reactjs for frontend.
+- Bootstrap for styling.
+
