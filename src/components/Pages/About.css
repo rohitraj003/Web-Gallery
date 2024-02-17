@@ -1,11 +1,11 @@
 .landing-page {
-  position: relative;
+  position: absolute;
 }
 
 .cover-image {
   position: relative;
-  height: 100vh; 
-  /* overflow: hidden; */
+  height: 100%; 
+  overflow: hidden;
 }
 
 .img-fluid {
