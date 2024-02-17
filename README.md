@@ -17,3 +17,4 @@ Our web app is your gateway to a visual journey where each image tells a unique 
 - Reactjs for frontend.
 - Bootstrap for styling.
 
+ 
